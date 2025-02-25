@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 am Samuel Ndiritu 
+Currently learning computer programming at the Iyf
 <!--
 **s-a-m-u-e-l-001/s-a-m-u-e-l-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
