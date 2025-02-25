@@ -1,7 +1,6 @@
 ## Hi there 👋 am Samuel Ndiritu 
-Currently learning computer programming at the Iyf
-You can reach me through my contact 0746380488
-<!--
+Currently learning computer programming at the Iyf.
+You can reach me through my contact 0746380488.I just finished my secondary education and hoping to pursue IT when I join the university an d hence am looking forward to this classes so that i can sharpen my computer skills<!--
 **s-a-m-u-e-l-001/s-a-m-u-e-l-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
